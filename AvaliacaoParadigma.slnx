@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/SQL Tarefa 1/">
+    <File Path="../../../../../skins/Colaborador_rows.sql" />
+    <File Path="../../../../../skins/Departamento_rows.sql" />
+    <File Path="Query de busca.sql" />
+  </Folder>
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
 </Solution>
